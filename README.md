@@ -1,7 +1,7 @@
 # Bank Loan Report - Financial Project
 
 Overview
-This project is a Bank Loan Report Dashboard built in Microsoft Excel. It provides a visual summary of loan applications, funding amounts, interest rates, and debt-to-income (DTI) ratios. The dashboard helps in analyzing loan performance with clear, data-driven insights.
+Bank Loan Analysis Dashboard built using Excel, Power BI, and SQL to analyze loan applications, funded amounts, repayments, interest rates, DTI ratios, and good vs. bad loan performance through data analysis and interactive visualizations.
 
 Features
 
